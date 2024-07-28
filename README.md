@@ -24,4 +24,5 @@ The code above is a script written in MQL5, used to create a custom indicator on
 **Purpose of the Code**
 - Plot two moving averages (MA6 and MA12) on the price chart: Helps users visualize short-term and long-term trends of the price.
 - Identify the crossover points of the two MAs: These points can be used to identify potential buy or sell signals. When MA6 crosses above MA12, it can be a buy signal; when MA6 crosses below MA12, it can be a sell signal.
+  
 In summary, this code helps users monitor trends and trading signals based on the crossover of two moving averages on the price chart.
