@@ -1,6 +1,7 @@
 The code above is a script written in MQL5, used to create a custom indicator on the MetaTrader 5 trading platform. The purpose of this indicator is to plot two simple moving averages (MA) and identify the crossover points between these two lines on the price chart.
 
 **Working Principle**
+
 **1. Declare and configure the indicator:**
 - Set the name, copyright information, and version of the indicator.
 - Specify that the indicator will be drawn on the main chart window (#property indicator_chart_window).
